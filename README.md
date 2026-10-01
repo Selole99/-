@@ -7,3 +7,4 @@
 
 <img width="592" height="505" alt="SharedScreenhot" src="https://github.com/user-attachments/assets/59dd1519-f1f2-4d14-ad9d-1543553f0ea5" />
 
+此项目代码由deepseek老师帮忙完成，我只负责提出设计，提出BUG（bushi）
